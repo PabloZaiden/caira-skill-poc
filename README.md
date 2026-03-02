@@ -7,6 +7,20 @@ The skill is designed to:
 - Recommend architecture options based on user requirements.
 - Guide scaffold and code-generation flows across infrastructure, platform, and application layers.
 
+## Installation
+
+Using Bun:
+
+```bash
+bunx skills add github.com/PabloZaiden/caira-skill-poc
+```
+
+Using NPX:
+
+```bash
+npx skills add github.com/PabloZaiden/caira-skill-poc
+```
+
 ## Repository structure
 
 ```text
