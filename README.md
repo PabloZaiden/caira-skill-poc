@@ -7,7 +7,7 @@ The skill is designed to:
 - Recommend architecture options based on user requirements.
 - Guide scaffold and code-generation flows across infrastructure, platform, and application layers.
 
-## Installation
+## Prerequisites
 
 If you don't have `bun` or `npx` installed yet, install Bun first (from https://bun.com/docs/installation):
 
@@ -22,6 +22,14 @@ bun --version
 ```
 
 For Windows install instructions, see: https://bun.com/docs/installation
+
+## Installation
+
+Install the skill from your project's directory so your coding agent can pick it up for that project.
+
+```bash
+cd /path/to/your-project
+```
 
 Using Bun:
 
