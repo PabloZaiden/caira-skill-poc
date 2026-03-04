@@ -9,6 +9,20 @@ The skill is designed to:
 
 ## Installation
 
+If you don't have `bun` or `npx` installed yet, install Bun first (from https://bun.com/docs/installation):
+
+```bash
+curl -fsSL https://bun.com/install | bash
+```
+
+Then restart your terminal and verify:
+
+```bash
+bun --version
+```
+
+For Windows install instructions, see: https://bun.com/docs/installation
+
 Using Bun:
 
 ```bash
